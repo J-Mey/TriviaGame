@@ -1,0 +1,27 @@
+body {
+    background: url("../images/dragon_ball_super.jpg")
+}
+
+.container {
+    width: 960px;
+    background: grey;
+    border: 2px solid;
+    margin: 50px;
+    opacity: .90;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    padding: 10px;
+}
+ 
+h2 {
+    text-align: center;
+    padding: 10px;
+}
+
+#quiz-box {
+    text-align: center;
+}
